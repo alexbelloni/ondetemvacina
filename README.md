@@ -1,4 +1,4 @@
-# Ondetemvacina: Interactive mapping crowdsource platform to help Brazil fighting COVID-19
+# Ondetemvacina: An interactive mapping crowdsourcing platform aiding Brazil's fight against COVID-19
 
 ![alt text](./images/otv-responsive.webp) 
 <p>Free collaborative platform for brazilian citizens to search and share details about COVID vaccination places.
@@ -41,14 +41,23 @@ Watch a brief demonstration. Duration: 2 minutes 11 seconds.
 [here](https://youtu.be/FaD1eoQ-L70) &rarr;
 
 ### Architecture and Work Flow
-Our team, 5 brazilians in love with technology and with Brazil, including a founder, a full-stack developer and API architecture, a DBA data integrator, an UX designer, and me as a front-end developer.   
-Agile use, CI/CD continuous integration, and 250M records consumed daily from the government API.
+<p>
+Our team contains 5 brazilians in love with technology and with Brazil, including a founder, a full-stack developer and API architecture, a DBA data integrator, an UX designer, and me as a front-end developer.  
+</p> 
+<p>
+This project embraced Agile principles, implementing continuous integration and continuous delivery (CI/CD) to foster collaboration, adaptability, and rapid feedback throughout the development process.
+</p>
+<p>
+The SPA utilizes React for building a dynamic user interface, while Leaflet is employed to show vaccination locations and the real user location on interactive and responsive maps, providing an enhanced user experience.</p>
+<p>The back-end infrastructure processes and integrates around 250 million records daily from the government API, ensuring that the vaccination data is consistently updated and accurate. Microsoft Power BI is employed to convert this data into comprehensive reports and detailed visualizations, enabling the Ondetemvacina team to monitor and disseminate information about vaccine locations, timing, and available brands across the country.</p>
 
 ## Results
 <p>
 Our work was recognized with a prestigious national award from the Brazilian Society of Health Informatics (SBIS), highlighting the importance and effectiveness of our solution in a challenging context. Finding the top result on Google for vaccines in Brazil, and with over one million users accessing the platform in 6 months, according to Google Analytics, we are proud to have made a significant difference in the national vaccination effort.  
 </p>
+<p>
 We got the 1st place in the National Digital Projects Competition: Use of Technology in the Fight Against COVID-19 by SBIS
+</p>
 
 <div style="padding:20px 0;"><img style="width:500px" src="./images/otv-midia1.webp" /></div> 
   
@@ -61,7 +70,7 @@ This project exemplifies our commitment not only to technological innovation but
 Ondetemvacina platform conquered more than 50 mentions in the press, including 2 regional radio programs and 2 national wide TV shows. Adding, this project got extremely positive social media response and social network effect with 200,000 comments in total. Here is some of media links.   
 
 #### Volunteer Project Provides Information on Vaccine Availability at Each Health Clinic in the Country by R7 Brazilian TV Channel
-<div style="padding:20px 0;"><img style="width:500px" src="./images/otv-midia2.webp" /></div> 
+<div style="padding:20px 0;"><img style="width:500px" src="./images/otv-midia2.jpg" /></div> 
  
 #### Volunteer Project Provides Information on Vaccine Availability Nationwide by Agencia Brasil Government Media Social
 [here](https://agenciabrasil.ebc.com.br/saude/noticia/2021-07/projeto-de-voluntarios-informa-disponibilidade-de-vacinas-no-pais) &rarr;
@@ -70,5 +79,6 @@ Ondetemvacina platform conquered more than 50 mentions in the press, including 2
 [here](https://www.uol.com.br/vivabem/noticias/redacao/2021/07/03/onde-se-vacinar-covid-19-projeto.htm) &rarr;
 
  ## Other Links
-  [Official description about the project on LinkedIn](https://www.linkedin.com/company/onde-tem-vacina/about/) &rarr;
+  [Ondetemvacina's LinkedIn (EN)](https://www.linkedin.com/company/onde-tem-vacina/about/) &rarr;  
+  [Ondetemvacina description by DNA Tecnologia (PT)](https://dna.tec.br/ondetemvacina) &rarr;
  
